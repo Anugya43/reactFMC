@@ -1,0 +1,10 @@
+{
+  "type":"module",
+  "dependencies": {
+    "react": "17.0.1",
+    "react-native": "0.64.2",
+    "@react-native-firebase/app": "^12.7.5",
+    "@react-native-firebase/messaging": "^12.7.5"
+  }
+}
+
